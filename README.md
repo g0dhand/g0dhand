@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @g0dhand
 - 👀 I’m interested in ... learning new things!
-- 🌱 I’m currently learning ... GitHub, GitLab, Vue.js, Nuxt.js, React and a few more things!
+- 🌱 I’m currently learning ... GitHub, GitLab, Vue.js, Astro, React and a few more things!
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... richard.goodwin@live.com
 
