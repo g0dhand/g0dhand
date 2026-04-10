@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @g0dhand
-- 👀 I’m interested in ... learning new things!
-- 🌱 I’m currently learning ... GitHub, GitLab, Vue.js, Astro, React and a few more things!
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ... learning new things, gaming, and streaming online!
+- 🌱 I’m currently learning ... GitHub, Vue.js, Astro, CoPilot w/ Claude and AI, and a few more things!
+- 💞️ I’m looking to collaborate on ... Hrm, not much yet. 
 - 📫 How to reach me ... richard.goodwin@live.com
 
 <!---
